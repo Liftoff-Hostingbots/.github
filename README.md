@@ -20,7 +20,7 @@ The backend acts as the **single source of truth** for all game state, voting, a
 
 # Repositories
 
-## 1. game-bot
+## Liftoff-Lobby-Bot
 
 Responsible for interacting directly with the Liftoff game.
 
@@ -33,7 +33,7 @@ Responsible for interacting directly with the Liftoff game.
 * Communicating with players
 ---
 
-## 2. backend
+## Java-Backend
 
 ### Responsibilities
 
@@ -44,16 +44,9 @@ Responsible for interacting directly with the Liftoff game.
 * API for bot + frontend
 * Users/Profiles
 * Authentication
-
-### Owns
-
-* Database
-* Game state
-* User actions
-
 ---
 
-## 3. frontend
+## Frontend
 
 User interface for interaction.
 
